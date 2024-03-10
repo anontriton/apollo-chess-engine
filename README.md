@@ -1,1 +1,1 @@
-# apollo-ches-engine
+# apollo-chess-engine
